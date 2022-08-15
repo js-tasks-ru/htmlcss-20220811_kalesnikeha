@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+    width: 600px;
+    margin: 0 auto;
+    border:4px solid #7048E8;
+}
+h1 {
+    font-size: 60px;
+    text-align: center;
+    color: white;
+    margin: 0;
+    background-color: #F03D3E;
+}
+ul, ol {
+    text-align: left;
+    font-size: 30px;
+}
+nav {
+    background-color: darkorange;
+    color: white;
+}
+
+main {
+    background-color: #374FC7;
+    color: white;
+    border: 5px solid #008000;
+    padding: 0;
+}
+footer {
+    font-size: 30px;
+    background-color: #7048E8;
+    color: white;
+}
+article {
+    border: 3px solid #008000;
+    margin: -1px;
+
+}
